@@ -1,0 +1,5 @@
+meu-addon/
+├── api/
+│   └── index.js       <-- O código do addon adaptado
+├── package.json
+└── vercel.json        <-- Configurações de rotas
