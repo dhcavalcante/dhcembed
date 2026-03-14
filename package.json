@@ -1,9 +1,10 @@
 {
   "name": "stremio-m3u-addon",
   "version": "1.0.0",
+  "main": "api/index.js",
   "dependencies": {
-    "stremio-addon-sdk": "^3.0.0",
-    "axios": "^1.6.0",
-    "iptv-playlist-parser": "^0.1.0"
+    "stremio-addon-sdk": "3.0.1",
+    "axios": "1.6.8",
+    "iptv-playlist-parser": "0.1.3"
   }
 }
